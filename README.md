@@ -1,34 +1,36 @@
 # Prework - Prework-iOS-CodePath
 Submitted by: Bruno Acosta
 
-Prework-iOS-CodePath is an app that
+Prework-iOS-CodePath is an app that displays three labels and a button, a button when pressed changes the color to the background to a random color
 
 
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [check] Users are see a screen with three labels and a button
+- [check] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/8nFgUGD"  ><a href="//imgur.com/a/8nFgUGD">iOS Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## App Brainstorming (Step 4)
 
+- Make fonts and margins more readable
+- Add more eye-catching buttons
+- Set up a database and login verification system
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges: Lack of familiarity with Xcode, Swift, and MacOS
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Bruno Acosta
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
