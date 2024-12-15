@@ -16,7 +16,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![gif](https://imgur.com/a/kiX8iQL.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/kiX8iQL"  ><a href="//imgur.com/a/kiX8iQL">iOSPrework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## App Brainstorming (Step 4)
 
